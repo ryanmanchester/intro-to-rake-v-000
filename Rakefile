@@ -21,6 +21,6 @@ namespace :db do
     Student.create_table
   end
 
-  desc 'seed the table with dummy data'
+  desc 'seed the database with dummy data'
 
 end
